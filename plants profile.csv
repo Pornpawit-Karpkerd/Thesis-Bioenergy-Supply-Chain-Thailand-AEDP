@@ -1,0 +1,428 @@
+Power plant,Category,Technology,Feed-in material,Electricity coef (MWh/MJ),Electricity production cost (LCOE)(THB/MWh),Maximum electricity production capacity (MW),Bioethanol production cost (THB/L),Maximum bioethanol production capacity (L/day),maximum plant factor
+F_BMtE 001,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,16,0,0,0.85
+F_BMtE 002,Biomass to Electricity,Cogeneration,rice husk,1.11E-04,6726.24 ,1,0,0,0.85
+F_BMtE 003,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,27,0,0,0.85
+F_BMtE 004,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,0.6,0,0,0.85
+F_BMtE 005,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.6,0,0,0.85
+F_BMtE 006,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,23,0,0,0.85
+F_BMtE 007,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,41,0,0,0.85
+F_BMtE 008,Biomass to Electricity,Gasification,sugarcane residues,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 009,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,5,0,0,0.85
+F_BMtE 010,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,36,0,0,0.85
+F_BMtE 011,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,7.5,0,0,0.85
+F_BMtE 012,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,20.5,0,0,0.85
+F_BMtE 013,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,19,0,0,0.85
+F_BMtE 014,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,33,0,0,0.85
+F_BMtE 015,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,8,0,0,0.85
+F_BMtE 016,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,6,0,0,0.85
+F_BMtE 017,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,8,0,0,0.85
+F_BMtE 018,Biomass to Electricity,Cogeneration,oil palm residues,1.11E-04,6726.24 ,1.5,0,0,0.85
+F_BMtE 019,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.4,0,0,0.85
+F_BMtE 020,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,18,0,0,0.85
+F_BMtE 021,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 022,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 023,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.5,0,0,0.85
+F_BMtE 024,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.8,0,0,0.85
+F_BMtE 025,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,35,0,0,0.85
+F_BMtE 026,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 027,Biomass to Electricity,Gasification,sugarcane residues,1.25E-04,6913.08 ,8,0,0,0.85
+F_BMtE 028,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,0.4,0,0,0.85
+F_BMtE 029,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,0.5,0,0,0.85
+F_BMtE 030,Biomass to Electricity,Cogeneration,rice husk,1.11E-04,6726.24 ,6,0,0,0.85
+F_BMtE 031,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,0.144,0,0,0.85
+F_BMtE 032,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,7.5,0,0,0.85
+F_BMtE 034,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 035,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,32,0,0,0.85
+F_BMtE 036,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.6,0,0,0.85
+F_BMtE 037,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.8,0,0,0.85
+F_BMtE 038,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,1.105,0,0,0.85
+F_BMtE 039,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 040,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,16,0,0,0.85
+F_BMtE 041,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9,0,0,0.85
+F_BMtE 042,Biomass to Electricity,Cogeneration,rice husk,1.11E-04,6726.24 ,4.9,0,0,0.85
+F_BMtE 043,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.5,0,0,0.85
+F_BMtE 044,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,2.7,0,0,0.85
+F_BMtE 045,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,61,0,0,0.85
+F_BMtE 046,Biomass to Electricity,Cogeneration,biomass,1.11E-04,6726.24 ,5.328,0,0,0.85
+F_BMtE 047,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,8,0,0,0.85
+F_BMtE 048,Biomass to Electricity,Cogeneration,rice husk,1.11E-04,6726.24 ,2.86,0,0,0.85
+F_BMtE 049,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,39.4,0,0,0.85
+F_BMtE 050,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,1.8,0,0,0.85
+F_BMtE 051,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,27,0,0,0.85
+F_BMtE 052,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,0.56,0,0,0.85
+F_BMtE 053,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,13,0,0,0.85
+F_BMtE 054,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 055,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,25,0,0,0.85
+F_BMtE 056,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,7.5,0,0,0.85
+F_BMtE 057,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,6.5,0,0,0.85
+F_BMtE 058,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,36,0,0,0.85
+F_BMtE 059,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,28.5,0,0,0.85
+F_BMtE 060,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,15,0,0,0.85
+F_BMtE 061,Biomass to Electricity,Cogeneration,rice husk,1.11E-04,6726.24 ,2.5,0,0,0.85
+F_BMtE 062,Biomass to Electricity,Cogeneration,rice husk,1.11E-04,6726.24 ,7.5,0,0,0.85
+F_BMtE 063,Biomass to Electricity,Cogeneration,biomass,1.11E-04,6726.24 ,14.8,0,0,0.85
+F_BMtE 064,Biomass to Electricity,Gasification,sugarcane residues,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 065,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.5,0,0,0.85
+F_BMtE 066,Biomass to Electricity,Cogeneration,biomass,1.11E-04,6726.24 ,24,0,0,0.85
+F_BMtE 067,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,15,0,0,0.85
+F_BMtE 068,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,6,0,0,0.85
+F_BMtE 069,Biomass to Electricity,Cogeneration,rice husk,1.11E-04,6726.24 ,9,0,0,0.85
+F_BMtE 070,Biomass to Electricity,Gasification,rice husk,1.25E-04,6913.08 ,30,0,0,0.85
+F_BMtE 071,Biomass to Electricity,Cogeneration,biomass,1.11E-04,6726.24 ,15,0,0,0.85
+F_BMtE 072,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,9,0,0,0.85
+F_BMtE 073,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,15,0,0,0.85
+F_BMtE 074,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,16,0,0,0.85
+F_BMtE 075,Biomass to Electricity,Gasification,sugarcane residues,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 076,Biomass to Electricity,Gasification,rice husk,1.25E-04,6913.08 ,8,0,0,0.85
+F_BMtE 077,Biomass to Electricity,Gasification,rice husk,1.25E-04,6913.08 ,9.5,0,0,0.85
+F_BMtE 078,Biomass to Electricity,Cogeneration,biomass,1.11E-04,6726.24 ,10,0,0,0.85
+F_BMtE 079,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,9.9,0,0,0.85
+F_BMtE 080,Biomass to Electricity,Gasification,sugarcane residues + rice husk + woodchip,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 081,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 082,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,10,0,0,0.85
+F_BMtE 083,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,1,0,0,0.85
+F_BMtE 084,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,15,0,0,0.85
+F_BMtE 085,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.5,0,0,0.85
+F_BMtE 086,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.5,0,0,0.85
+F_BMtE 087,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 088,Biomass to Electricity,Cogeneration,oil palm residues,1.11E-04,6726.24 ,7.5,0,0,0.85
+F_BMtE 089,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9,0,0,0.85
+F_BMtE 090,Biomass to Electricity,Cogeneration,oil palm residues,1.11E-04,6726.24 ,9.9,0,0,0.85
+F_BMtE 091,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,15.5,0,0,0.85
+F_BMtE 092,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,14,0,0,0.85
+F_BMtE 093,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,23,0,0,0.85
+F_BMtE 094,Biomass to Electricity,Cogeneration,sugarcane residue,1.11E-04,6726.24 ,8,0,0,0.85
+F_BMtE 095,Biomass to Electricity,Cogeneration,sugarcane residue,1.11E-04,6726.24 ,36,0,0,0.85
+F_BMtE 096,Biomass to Electricity,Gasification,woodchip,1.25E-04,6913.08 ,7.5,0,0,0.85
+F_BMtE 097,Biomass to Electricity,Direct-firing,biomass,8.33E-05,3176.28 ,0.2,0,0,0.85
+F_BMtE 098,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,56.9,0,0,0.85
+F_BMtE 099,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,36,0,0,0.85
+F_BMtE 100,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,12,0,0,0.85
+F_BMtE 101,Biomass to Electricity,Gasification,rice husk+sugarcane residues+wood chip,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 102,Biomass to Electricity,Gasification,woodchip+oil palm residues,1.25E-04,6913.08 ,8,0,0,0.85
+F_BMtE 103,Biomass to Electricity,Gasification,woodchip,1.25E-04,6913.08 ,9.5,0,0,0.85
+F_BMtE 104,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,12,0,0,0.85
+F_BMtE 105,Biomass to Electricity,Cogeneration,rice husk,1.11E-04,6726.24 ,9,0,0,0.85
+F_BMtE 106,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 107,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,0.99,0,0,0.85
+F_BMtE 108,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,18.5,0,0,0.85
+F_BMtE 109,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,25,0,0,0.85
+F_BMtE 110,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,40,0,0,0.85
+F_BMtE 111,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,15,0,0,0.85
+F_BMtE 112,Biomass to Electricity,Cogeneration,oil palm residues,1.11E-04,6726.24 ,9.1,0,0,0.85
+F_BMtE 113,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,9.5,0,0,0.85
+F_BMtE 114,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.8,0,0,0.85
+F_BMtE 115,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 116,Biomass to Electricity,Cogeneration,oil palm residues,1.11E-04,6726.24 ,4.05,0,0,0.85
+F_BMtE 117,Biomass to Electricity,Gasification,woodchip,1.25E-04,6913.08 ,1.894,0,0,0.85
+F_BMtE 118,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 119,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,12,0,0,0.85
+F_BMtE 120,Biomass to Electricity,Cogeneration,woodchip,1.11E-04,6726.24 ,14.2,0,0,0.85
+F_BMtE 121,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9,0,0,0.85
+F_BMtE 122,Biomass to Electricity,Gasification,rice husk,1.25E-04,6913.08 ,9,0,0,0.85
+F_BMtE 123,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 124,Biomass to Electricity,Cogeneration,rice husk,1.11E-04,6726.24 ,4.9,0,0,0.85
+F_BMtE 125,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,0.3,0,0,0.85
+F_BMtE 126,Biomass to Electricity,Gasification,sugarcane residues,1.25E-04,6913.08 ,8,0,0,0.85
+F_BMtE 127,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,8,0,0,0.85
+F_BMtE 128,Biomass to Electricity,Cogeneration,biomass,1.11E-04,6726.24 ,0.92,0,0,0.85
+F_BMtE 129,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,3.6,0,0,0.85
+F_BMtE 130,Biomass to Electricity,Gasification,coconut residues,1.25E-04,6913.08 ,9.5,0,0,0.85
+F_BMtE 131,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,9.9,0,0,0.85
+F_BMtE 132,Biomass to Electricity,Cogeneration,oil palm residues,1.11E-04,6726.24 ,7.5,0,0,0.85
+F_BMtE 133,Biomass to Electricity,Gasification,para rubber tree + oil palm residues,1.25E-04,6913.08 ,9.5,0,0,0.85
+F_BMtE 134,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,15.5,0,0,0.85
+F_BMtE 135,Biomass to Electricity,Gasification,woodchip,1.25E-04,6913.08 ,1.356,0,0,0.85
+F_BMtE 136,Biomass to Electricity,Gasification,sugarcane residues,1.25E-04,6913.08 ,9.5,0,0,0.85
+F_BMtE 137,Biomass to Electricity,Gasification,sugarcane residues,1.25E-04,6913.08 ,28,0,0,0.85
+F_BMtE 138,Biomass to Electricity,Gasification,sugarcane residues,1.25E-04,6913.08 ,25,0,0,0.85
+F_BMtE 139,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.5,0,0,0.85
+F_BMtE 140,Biomass to Electricity,Cogeneration,rice husk,1.11E-04,6726.24 ,0.2,0,0,0.85
+F_BMtE 141,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,17.5,0,0,0.85
+F_BMtE 142,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 143,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,7,0,0,0.85
+F_BMtE 144,Biomass to Electricity,Gasification,woodchip,1.25E-04,6913.08 ,7.5,0,0,0.85
+F_BMtE 145,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 146,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 147,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.8,0,0,0.85
+F_BMtE 148,Biomass to Electricity,Gasification,oil palm residues,1.25E-04,6913.08 ,5,0,0,0.85
+F_BMtE 149,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,8,0,0,0.85
+F_BMtE 150,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,20,0,0,0.85
+F_BMtE 151,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.5,0,0,0.85
+F_BMtE 152,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,18,0,0,0.85
+F_BMtE 153,Biomass to Electricity,Gasification,para rubber tree,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 154,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,6,0,0,0.85
+F_BMtE 155,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 156,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.4,0,0,0.85
+F_BMtE 157,Biomass to Electricity,Gasification,para rubber tree,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 158,Biomass to Electricity,Cogeneration,para rubber tree,1.11E-04,6726.24 ,2.5,0,0,0.85
+F_BMtE 159,Biomass to Electricity,Gasification,para rubber tree,1.25E-04,6913.08 ,4.9,0,0,0.85
+F_BMtE 160,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.5,0,0,0.85
+F_BMtE 161,Biomass to Electricity,Gasification,para rubber tree,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 162,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 163,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,1,0,0,0.85
+F_BMtE 164,Biomass to Electricity,Gasification,para rubber tree + woodchip,1.25E-04,6913.08 ,7,0,0,0.85
+F_BMtE 165,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 166,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,65,0,0,0.85
+F_BMtE 167,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,0.99,0,0,0.85
+F_BMtE 168,Biomass to Electricity,Gasification,sugarcane residues,1.25E-04,6913.08 ,32,0,0,0.85
+F_BMtE 170,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,6,0,0,0.85
+F_BMtE 171,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,0.99,0,0,0.85
+F_BMtE 172,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,27,0,0,0.85
+F_BMtE 173,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,30,0,0,0.85
+F_BMtE 174,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 175,Biomass to Electricity,Gasification,rice husk + wood chip,1.25E-04,6913.08 ,47.4,0,0,0.85
+F_BMtE 176,Biomass to Electricity,Gasification,rice husk + wood chip,1.25E-04,6913.08 ,8,0,0,0.85
+F_BMtE 179,Biomass to Electricity,Gasification,sugarcane residues,1.25E-04,6913.08 ,11.4,0,0,0.85
+F_BMtE 180,Biomass to Electricity,Gasification,sugarcane residues,1.25E-04,6913.08 ,11.4,0,0,0.85
+F_BMtE 181,Biomass to Electricity,Gasification,sugarcane residues,1.25E-04,6913.08 ,12,0,0,0.85
+F_BMtE 182,Biomass to Electricity,Cogeneration,oil palm residues,1.11E-04,6726.24 ,8,0,0,0.85
+F_BMtE 183,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,34,0,0,0.85
+F_BMtE 184,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 185,Biomass to Electricity,Cogeneration,palm,1.11E-04,6726.24 ,6.75,0,0,0.85
+F_BMtE 186,Biomass to Electricity,Gasification,woodchip,1.25E-04,6913.08 ,9.5,0,0,0.85
+F_BMtE 187,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,6,0,0,0.85
+F_BMtE 188,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,50,0,0,0.85
+F_BMtE 189,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,32.5,0,0,0.85
+F_BMtE 191,Biomass to Electricity,Cogeneration,oil palm residues,1.11E-04,6726.24 ,6.2,0,0,0.85
+F_BMtE 192,Biomass to Electricity,Gasification,rice husk,1.25E-04,6913.08 ,22.5,0,0,0.85
+F_BMtE 193,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,29.5,0,0,0.85
+F_BMtE 194,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,23,0,0,0.85
+F_BMtE 195,Biomass to Electricity,Gasification,rice husk,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 196,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,18,0,0,0.85
+F_BMtE 197,Biomass to Electricity,Gasification,woodchip,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 198,Biomass to Electricity,Gasification,sugarcane residues,1.25E-04,6913.08 ,23,0,0,0.85
+F_BMtE 199,Biomass to Electricity,Gasification,sugarcane residues,1.25E-04,6913.08 ,55,0,0,0.85
+F_BMtE 200,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,14.5,0,0,0.85
+F_BMtE 201,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,29.5,0,0,0.85
+F_BMtE 202,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,20,0,0,0.85
+F_BMtE 203,Biomass to Electricity,Gasification,sugarcane residues,1.25E-04,6913.08 ,20,0,0,0.85
+F_BMtE 204,Biomass to Electricity,Gasification,sugarcane residues,1.25E-04,6913.08 ,48,0,0,0.85
+F_BMtE 205,Biomass to Electricity,Gasification,sugarcane residues,1.25E-04,6913.08 ,11.4,0,0,0.85
+F_BMtE 206,Biomass to Electricity,Gasification,sugarcane residues,1.25E-04,6913.08 ,32,0,0,0.85
+F_BMtE 207,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,18,0,0,0.85
+F_BMtE 208,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 209,Biomass to Electricity,Cogeneration,oil palm residues,1.11E-04,6726.24 ,8.4,0,0,0.85
+F_BMtE 210,Biomass to Electricity,Gasification,rice husk,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 211,Biomass to Electricity,Gasification,rice husk,1.25E-04,6913.08 ,17,0,0,0.85
+F_BMtE 212,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 213,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,19.6,0,0,0.85
+F_BMtE 214,Biomass to Electricity,Cogeneration,sugarcane residues,1.11E-04,6726.24 ,50,0,0,0.85
+F_BMtE 215,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,20,0,0,0.85
+F_BMtE 216,Biomass to Electricity,Direct-firing,biomass,8.33E-05,3176.28 ,9.9,0,0,0.85
+F_BMtE 217,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 218,Biomass to Electricity,Cogeneration,oil palm residues,1.11E-04,6726.24 ,9.24,0,0,0.85
+F_BMtE 219,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.9,0,0,0.85
+F_BMtE 220,Biomass to Electricity,Gasification,biomass,1.25E-04,6913.08 ,9.8,0,0,0.85
+F_BGtE_001,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,3,0,0,0.85
+F_BGtE_002,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.08,0,0,0.85
+F_BGtE_003,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.2,0,0,0.85
+F_BGtE_004,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,3,0,0,0.85
+F_BGtE_005,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.055,0,0,0.85
+F_BGtE_006,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.42,0,0,0.85
+F_BGtE_007,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.932,0,0,0.85
+F_BGtE_008,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.02,0,0,0.85
+F_BGtE_009,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.02,0,0,0.85
+F_BGtE_010,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.044,0,0,0.85
+F_BGtE_011,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.23,0,0,0.85
+F_BGtE_012,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.314,0,0,0.85
+F_BGtE_013,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.2,0,0,0.85
+F_BGtE_014,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.2,0,0,0.85
+F_BGtE_015,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,4.9,0,0,0.85
+F_BGtE_016,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.977,0,0,0.85
+F_BGtE_017,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.9,0,0,0.85
+F_BGtE_018,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.2,0,0,0.85
+F_BGtE_019,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.904,0,0,0.85
+F_BGtE_020,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2,0,0,0.85
+F_BGtE_021,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,3.352,0,0,0.85
+F_BGtE_022,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.374,0,0,0.85
+F_BGtE_023,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.96,0,0,0.85
+F_BGtE_024,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.419,0,0,0.85
+F_BGtE_025,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.656,0,0,0.85
+F_BGtE_026,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,4.252,0,0,0.85
+F_BGtE_027,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.2,0,0,0.85
+F_BGtE_028,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,3,0,0,0.85
+F_BGtE_029,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,4.065,0,0,0.85
+F_BGtE_030,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.99,0,0,0.85
+F_BGtE_031,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.99,0,0,0.85
+F_BGtE_032,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.002,0,0,0.85
+F_BGtE_033,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,4,0,0,0.85
+F_BGtE_034,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.99,0,0,0.85
+F_BGtE_035,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.063,0,0,0.85
+F_BGtE_036,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.952,0,0,0.85
+F_BGtE_037,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2,0,0,0.85
+F_BGtE_038,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.096,0,0,0.85
+F_BGtE_039,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.856,0,0,0.85
+F_BGtE_040,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,3,0,0,0.85
+F_BGtE_041,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.2,0,0,0.85
+F_BGtE_042,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.18,0,0,0.85
+F_BGtE_043,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,4.252,0,0,0.85
+F_BGtE_044,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,8,0,0,0.85
+F_BGtE_046,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.8,0,0,0.85
+F_BGtE_047,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.832,0,0,0.85
+F_BGtE_048,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,4.533,0,0,0.85
+F_BGtE_049,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.08,0,0,0.85
+F_BGtE_050,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.904,0,0,0.85
+F_BGtE_051,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1,0,0,0.85
+F_BGtE_052,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,8.5,0,0,0.85
+F_BGtE_053,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,6,0,0,0.85
+F_BGtE_054,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.94,0,0,0.85
+F_BGtE_055,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1,0,0,0.85
+F_BGtE_056,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.152,0,0,0.85
+F_BGtE_057,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.904,0,0,0.85
+F_BGtE_058,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.152,0,0,0.85
+F_BGtE_059,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1,0,0,0.85
+F_BGtE_060,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.99,0,0,0.85
+F_BGtE_061,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.416,0,0,0.85
+F_BGtE_062,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.3,0,0,0.85
+F_BGtE_063,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.832,0,0,0.85
+F_BGtE_064,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,3.417,0,0,0.85
+F_BGtE_066,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1,0,0,0.85
+F_BGtE_067,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2,0,0,0.85
+F_BGtE_068,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,5.516,0,0,0.85
+F_BGtE_069,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.856,0,0,0.85
+F_BGtE_070,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,3.2,0,0,0.85
+F_BGtE_071,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.856,0,0,0.85
+F_BGtE_072,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.65,0,0,0.85
+F_BGtE_073,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,5.6,0,0,0.85
+F_BGtE_074,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.952,0,0,0.85
+F_BGtE_075,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.25,0,0,0.85
+F_BGtE_076,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.2,0,0,0.85
+F_BGtE_077,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1,0,0,0.85
+F_BGtE_078,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.8,0,0,0.85
+F_BGtE_079,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2,0,0,0.85
+F_BGtE_080,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.4,0,0,0.85
+F_BGtE_081,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1,0,0,0.85
+F_BGtE_082,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,3,0,0,0.85
+F_BGtE_083,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,3.189,0,0,0.85
+F_BGtE_084,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2,0,0,0.85
+F_BGtE_085,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.021,0,0,0.85
+F_BGtE_086,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,3.476,0,0,0.85
+F_BGtE_087,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2,0,0,0.85
+F_BGtE_088,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,5.204,0,0,0.85
+F_BGtE_089,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.8,0,0,0.85
+F_BGtE_090,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1,0,0,0.85
+F_BGtE_091,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1,0,0,0.85
+F_BGtE_092,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,10.889,0,0,0.85
+F_BGtE_093,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1,0,0,0.85
+F_BGtE_094,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.2,0,0,0.85
+F_BGtE_095,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2,0,0,0.85
+F_BGtE_096,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,4.252,0,0,0.85
+F_BGtE_097,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,3.189,0,0,0.85
+F_BGtE_098,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1,0,0,0.85
+F_BGtE_099,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1,0,0,0.85
+F_BGtE_100,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,3.8,0,0,0.85
+F_BGtE_101,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.12,0,0,0.85
+F_BGtE_102,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.022,0,0,0.85
+F_BGtE_103,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.16,0,0,0.85
+F_BGtE_104,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1,0,0,0.85
+F_BGtE_105,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.063,0,0,0.85
+F_BGtE_106,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,3,0,0,0.85
+F_BGtE_107,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.952,0,0,0.85
+F_BGtE_108,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.48,0,0,0.85
+F_BGtE_109,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.94,0,0,0.85
+F_BGtE_110,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,3.189,0,0,0.85
+F_BGtE_111,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.8,0,0,0.85
+F_BGtE_112,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.25,0,0,0.85
+F_BGtE_113,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.552,0,0,0.85
+F_BGtE_114,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.999,0,0,0.85
+F_BGtE_115,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.126,0,0,0.85
+F_BGtE_116,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.99,0,0,0.85
+F_BGtE_117,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.832,0,0,0.85
+F_BGtE_118,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.825,0,0,0.85
+F_BGtE_119,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.28,0,0,0.85
+F_BGtE_120,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.825,0,0,0.85
+F_BGtE_121,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.025,0,0,0.85
+F_BGtE_122,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.416,0,0,0.85
+F_BGtE_123,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.5,0,0,0.85
+F_BGtE_124,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1,0,0,0.85
+F_BGtE_125,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.126,0,0,0.85
+F_BGtE_126,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.36,0,0,0.85
+F_BGtE_127,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1,0,0,0.85
+F_BGtE_128,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1,0,0,0.85
+F_BGtE_129,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.999,0,0,0.85
+F_BGtE_130,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.126,0,0,0.85
+F_BGtE_131,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.25,0,0,0.85
+F_BGtE_132,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.126,0,0,0.85
+F_BGtE_133,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.54,0,0,0.85
+F_BGtE_134,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.728,0,0,0.85
+F_BGtE_135,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,6,0,0,0.85
+F_BGtE_136,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1,0,0,0.85
+F_BGtE_137,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,6.6,0,0,0.85
+F_BGtE_138,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.616,0,0,0.85
+F_BGtE_139,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1,0,0,0.85
+F_BGtE_140,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.126,0,0,0.85
+F_BGtE_141,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,4.644,0,0,0.85
+F_BGtE_142,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.126,0,0,0.85
+F_BGtE_143,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.999,0,0,0.85
+F_BGtE_144,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,4,0,0,0.85
+F_BGtE_145,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,9.026,0,0,0.85
+F_BGtE_146,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,3.534,0,0,0.85
+F_BGtE_147,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1,0,0,0.85
+F_BGtE_148,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.4,0,0,0.85
+F_BGtE_149,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.904,0,0,0.85
+F_BGtE_150,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,9.8,0,0,0.85
+F_BGtE_151,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.7,0,0,0.85
+F_BGtE_152,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.826,0,0,0.85
+F_BGtE_153,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.2,0,0,0.85
+F_BGtE_154,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1,0,0,0.85
+F_BGtE_155,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,3.201,0,0,0.85
+F_BGtE_156,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.126,0,0,0.85
+F_BGtE_157,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.97,0,0,0.85
+F_BGtE_158,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.4,0,0,0.85
+F_BGtE_159,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.99,0,0,0.85
+F_BGtE_160,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.95,0,0,0.85
+F_BGtE_161,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.396,0,0,0.85
+F_BGtE_162,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.2,0,0,0.85
+F_BGtE_163,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.8,0,0,0.85
+F_BGtE_164,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.98,0,0,0.85
+F_BGtE_165,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.2,0,0,0.85
+F_BGtE_166,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.99,0,0,0.85
+F_BGtE_167,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.826,0,0,0.85
+F_BGtE_168,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.95,0,0,0.85
+F_BGtE_169,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.067,0,0,0.85
+F_BGtE_170,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,3.6,0,0,0.85
+F_BGtE_171,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.451,0,0,0.85
+F_BGtE_172,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1.5,0,0,0.85
+F_BGtE_173,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.99,0,0,0.85
+F_BGtE_174,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.97,0,0,0.85
+F_BGtE_175,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.92,0,0,0.85
+F_BGtE_176,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,8.536,0,0,0.85
+F_BGtE_177,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.25,0,0,0.85
+F_BGtE_178,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,6.712,0,0,0.85
+F_BGtE_179,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,6,0,0,0.85
+F_BGtE_180,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,0.23,0,0,0.85
+F_BGtE_181,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.5,0,0,0.85
+F_BGtE_182,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2,0,0,0.85
+F_BGtE_183,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1,0,0,0.85
+F_BGtE_184,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,1,0,0,0.85
+F_BGtE_185,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,3,0,0,0.85
+F_BGtE_186,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,2.4,0,0,0.85
+F_BGtE_187,Biogas to Electricity,Anaerobic,,4.16E-05,3500.00 ,4.8,0,0,0.85
+F_BEth_01,Bioethanol,Fermentation,Molasse,0,0.00 ,0,7.299,150000,0.85
+F_BEth_02,Bioethanol,Fermentation,Molasse,0,0.00 ,0,7.299,230000,0.85
+F_BEth_03,Bioethanol,Fermentation,Molasse,0,0.00 ,0,7.299,200000,0.85
+F_BEth_04,Bioethanol,Fermentation,Molasse,0,0.00 ,0,7.299,500000,0.85
+F_BEth_05,Bioethanol,Fermentation,Molasse,0,0.00 ,0,7.299,230000,0.85
+F_BEth_06,Bioethanol,Fermentation,Molasse,0,0.00 ,0,7.299,320000,0.85
+F_BEth_07,Bioethanol,Fermentation,Molasse,0,0.00 ,0,7.299,200000,0.85
+F_BEth_08,Bioethanol,Fermentation,Molasse,0,0.00 ,0,7.299,250000,0.85
+F_BEth_09,Bioethanol,Fermentation,Molasse,0,0.00 ,0,7.299,150000,0.85
+F_BEth_10,Bioethanol,Fermentation,Molasse,0,0.00 ,0,7.299,300000,0.85
+F_BEth_11,Bioethanol,Fermentation,Molasse,0,0.00 ,0,7.299,300000,0.85
+F_BEth_12,Bioethanol,Fermentation,Molasse,0,0.00 ,0,7.299,230000,0.85
+F_BEth_13,Bioethanol,Fermentation,Molaase+Cassava,0,0.00 ,0,7.299,150000,0.85
+F_BEth_14,Bioethanol,Fermentation,Molaase+Cassava,0,0.00 ,0,7.299,150000,0.85
+F_BEth_15,Bioethanol,Fermentation,Molaase+Cassava,0,0.00 ,0,7.299,200000,0.85
+F_BEth_16,Bioethanol,Fermentation,Molaase+Cassava,0,0.00 ,0,7.299,200000,0.85
+F_BEth_17,Bioethanol,Fermentation,Molaase+Cassava,0,0.00 ,0,7.299,200000,0.85
+F_BEth_18,Bioethanol,Fermentation,Molaase+Cassava,0,0.00 ,0,7.299,25000,0.85
+F_BEth_19,Bioethanol,Fermentation,Cassava,0,0.00 ,0,7.299,200000,0.85
+F_BEth_20,Bioethanol,Fermentation,Cassava,0,0.00 ,0,7.299,130000,0.85
+F_BEth_21,Bioethanol,Fermentation,Cassava,0,0.00 ,0,7.299,300000,0.85
+F_BEth_22,Bioethanol,Fermentation,Cassava,0,0.00 ,0,7.299,150000,0.85
+F_BEth_23,Bioethanol,Fermentation,Cassava,0,0.00 ,0,7.299,500000,0.85
+F_BEth_24,Bioethanol,Fermentation,Cassava,0,0.00 ,0,7.299,400000,0.85
+F_BEth_25,Bioethanol,Fermentation,Cassava,0,0.00 ,0,7.299,150000,0.85
+F_BEth_26,Bioethanol,Fermentation,Cassava,0,0.00 ,0,7.299,340000,0.85
+F_BEth_27,Bioethanol,Fermentation,Cassava,0,0.00 ,0,7.299,120000,0.85

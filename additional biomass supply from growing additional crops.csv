@@ -1,0 +1,1311 @@
+Province,Biomass (tons) \timestep,1,2,3,4,5,6,7,8,9,10,11,12
+Province_01,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_01,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_01,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_01,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_01,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_01,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_01,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_01,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_01,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_01,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_01,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_01,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_01,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_01,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_01,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_01,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_01,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_02,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_02,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_02,3. Sugarcane leaves,2298516.212,20950116.94,0,0,0,0,0,0,0,0,0,597978.638
+Province_02,4. Bagasse,3785791.408,34506074.96,0,0,0,0,0,0,0,0,0,984905.992
+Province_02,5. Molasse,676034.18,6161799.1,0,0,0,0,0,0,0,0,0,175876.07
+Province_02,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_02,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_02,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_02,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_02,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_02,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_02,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_02,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_02,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_02,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_02,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_02,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_03,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_03,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_03,3. Sugarcane leaves,879041.304,38043722,0,0,0,0,0,0,0,0,0,3350637.27
+Province_03,4. Bagasse,1447832.736,62660248,0,0,0,0,0,0,0,0,0,5518696.68
+Province_03,5. Molasse,258541.56,11189330,0,0,0,0,0,0,0,0,0,985481.55
+Province_03,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_03,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_03,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_03,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_03,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_03,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_03,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_03,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_03,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_03,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_03,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_03,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_04,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_04,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_04,3. Sugarcane leaves,2654340.628,15451699.5,0,0,0,0,0,0,0,0,0,1273490.74
+Province_04,4. Bagasse,4371855.152,25449858,0,0,0,0,0,0,0,0,0,2097514.16
+Province_04,5. Molasse,780688.42,4544617.5,0,0,0,0,0,0,0,0,0,374556.1
+Province_04,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_04,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_04,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_04,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_04,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_04,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_04,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_04,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_04,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_04,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_04,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_04,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_05,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_05,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_05,3. Sugarcane leaves,711158.246,24826649.38,0,0,0,0,0,0,0,0,0,3010139.442
+Province_05,4. Bagasse,1171319.464,40890951.92,0,0,0,0,0,0,0,0,0,4957876.728
+Province_05,5. Molasse,209164.19,7301955.7,0,0,0,0,0,0,0,0,0,885335.13
+Province_05,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_05,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_05,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_05,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_05,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_05,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_05,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_05,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_05,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_05,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_05,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_05,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_06,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_06,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_06,3. Sugarcane leaves,3389705.31,754947118,0,0,0,0,0,0,0,0,0,1439816.836
+Province_06,4. Bagasse,5583044.04,1243442312,0,0,0,0,0,0,0,0,0,2371463.024
+Province_06,5. Molasse,996972.15,222043270,0,0,0,0,0,0,0,0,0,423475.54
+Province_06,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_06,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_06,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_06,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_06,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_06,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_06,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_06,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_06,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_06,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_06,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_06,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_07,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_07,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_07,3. Sugarcane leaves,1986955.784,16976646.42,0,0,0,0,0,0,0,0,0,276413.2544
+Province_07,4. Bagasse,3272633.056,27961535.28,0,0,0,0,0,0,0,0,0,455268.8896
+Province_07,5. Molasse,584398.76,4993131.3,0,0,0,0,0,0,0,0,0,81298.016
+Province_07,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_07,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_07,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_07,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_07,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_07,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_07,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_07,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_07,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_07,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_07,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_07,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_08,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_08,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_08,3. Sugarcane leaves,4432161.46,29224983.9,0,0,0,0,0,0,0,0,0,21402483.54
+Province_08,4. Bagasse,7300030.64,48135267.6,0,0,0,0,0,0,0,0,0,35251149.36
+Province_08,5. Molasse,1303576.9,8595583.5,0,0,0,0,0,0,0,0,0,6294848.1
+Province_08,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_08,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_08,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_08,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_08,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_08,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_08,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_08,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_08,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_08,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_08,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_08,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_09,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_09,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_09,3. Sugarcane leaves,2603194.836,4702486.62,0,0,0,0,0,0,0,0,0,848947.598
+Province_09,4. Bagasse,4287615.024,7745272.08,0,0,0,0,0,0,0,0,0,1398266.632
+Province_09,5. Molasse,765645.54,1383084.3,0,0,0,0,0,0,0,0,0,249690.47
+Province_09,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_09,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_09,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_09,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_09,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_09,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_09,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_09,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_09,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_09,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_09,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_09,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_10,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_10,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_10,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_10,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_10,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_10,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_10,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_10,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_10,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_10,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_10,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_10,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_10,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_10,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_10,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_10,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_10,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_11,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_11,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_11,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_11,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_11,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_11,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_11,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_11,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_11,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_11,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_11,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_11,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_11,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_11,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_11,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_11,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_11,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_12,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_12,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_12,3. Sugarcane leaves,1558347.738,38258336.8,0,0,0,0,0,0,0,0,0,3375083.984
+Province_12,4. Bagasse,2566690.392,63013731.2,0,0,0,0,0,0,0,0,0,5558961.856
+Province_12,5. Molasse,458337.57,11252452,0,0,0,0,0,0,0,0,0,992671.76
+Province_12,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_12,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_12,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_12,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_12,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_12,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_12,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_12,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_12,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_12,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_12,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_12,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_13,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_13,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_13,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_13,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_13,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_13,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_13,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_13,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_13,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_13,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_13,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_13,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_13,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_13,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_13,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_13,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_13,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_14,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_14,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_14,3. Sugarcane leaves,0,39240685.2,0,0,0,0,0,0,0,0,0,2241122.376
+Province_14,4. Bagasse,0,64631716.8,0,0,0,0,0,0,0,0,0,3691260.384
+Province_14,5. Molasse,0,11541378,0,0,0,0,0,0,0,0,0,659153.64
+Province_14,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_14,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_14,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_14,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_14,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_14,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_14,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_14,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_14,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_14,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_14,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_14,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_15,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_15,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_15,3. Sugarcane leaves,2527944.268,12076387.58,0,0,0,0,0,0,0,0,0,1088323.408
+Province_15,4. Bagasse,4163672.912,19890520.72,0,0,0,0,0,0,0,0,0,1792532.672
+Province_15,5. Molasse,743513.02,3551878.7,0,0,0,0,0,0,0,0,0,320095.12
+Province_15,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_15,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_15,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_15,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_15,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_15,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_15,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_15,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_15,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_15,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_15,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_15,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_16,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_16,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_16,3. Sugarcane leaves,798484.016,22313114.38,0,0,0,0,0,0,0,0,0,1550497.614
+Province_16,4. Bagasse,1315150.144,36751011.92,0,0,0,0,0,0,0,0,0,2553760.776
+Province_16,5. Molasse,234848.24,6562680.7,0,0,0,0,0,0,0,0,0,456028.71
+Province_16,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_16,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_16,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_16,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_16,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_16,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_16,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_16,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_16,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_16,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_16,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_16,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_17,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_17,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_17,3. Sugarcane leaves,5703479.6,20928056.72,0,0,0,0,0,0,0,0,0,769391.78
+Province_17,4. Bagasse,9393966.4,34469740.48,0,0,0,0,0,0,0,0,0,1267233.52
+Province_17,5. Molasse,1677494,6155310.8,0,0,0,0,0,0,0,0,0,226291.7
+Province_17,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_17,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_17,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_17,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_17,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_17,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_17,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_17,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_17,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_17,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_17,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_17,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_18,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_18,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_18,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_18,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_18,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_18,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_18,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_18,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_18,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_18,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_18,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_18,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_18,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_18,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_18,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_18,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_18,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_19,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_19,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_19,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_19,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_19,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_19,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_19,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_19,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_19,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_19,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_19,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_19,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_19,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_19,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_19,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_19,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_19,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_20,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_20,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_20,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_20,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_20,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_20,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_20,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_20,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_20,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_20,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_20,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_20,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_20,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_20,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_20,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_20,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_20,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_21,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_21,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_21,3. Sugarcane leaves,3131941.654,13815748.02,0,0,0,0,0,0,0,0,0,9007414.3
+Province_21,4. Bagasse,5158492.136,22755349.68,0,0,0,0,0,0,0,0,0,14835741.2
+Province_21,5. Molasse,921159.31,4063455.3,0,0,0,0,0,0,0,0,0,2649239.5
+Province_21,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_21,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_21,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_21,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_21,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_21,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_21,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_21,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_21,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_21,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_21,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_21,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_22,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_22,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_22,3. Sugarcane leaves,3404265.3,16507202.98,0,0,0,0,0,0,0,0,0,3084526.648
+Province_22,4. Bagasse,5607025.2,27188334.32,0,0,0,0,0,0,0,0,0,5080396.832
+Province_22,5. Molasse,1001254.5,4855059.7,0,0,0,0,0,0,0,0,0,907213.72
+Province_22,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_22,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_22,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_22,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_22,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_22,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_22,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_22,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_22,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_22,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_22,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_22,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_23,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_23,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_23,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_23,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_23,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_23,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_23,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_23,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_23,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_23,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_23,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_23,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_23,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_23,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_23,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_23,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_23,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_24,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_24,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_24,3. Sugarcane leaves,1849370.058,15865873.22,0,0,0,0,0,0,0,0,0,2766992.216
+Province_24,4. Bagasse,3046021.272,26132026.48,0,0,0,0,0,0,0,0,0,4557398.944
+Province_24,5. Molasse,543932.37,4666433.3,0,0,0,0,0,0,0,0,0,813821.24
+Province_24,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_24,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_24,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_24,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_24,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_24,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_24,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_24,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_24,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_24,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_24,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_24,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_25,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_25,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_25,3. Sugarcane leaves,4444219.56,14971682.74,0,0,0,0,0,0,0,0,0,2361268.618
+Province_25,4. Bagasse,7319891.04,24659242.16,0,0,0,0,0,0,0,0,0,3889148.312
+Province_25,5. Molasse,1307123.4,4403436.1,0,0,0,0,0,0,0,0,0,694490.77
+Province_25,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_25,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_25,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_25,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_25,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_25,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_25,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_25,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_25,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_25,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_25,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_25,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_26,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_26,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_26,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_26,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_26,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_26,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_26,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_26,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_26,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_26,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_26,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_26,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_26,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_26,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_26,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_26,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_26,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_27,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_27,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_27,3. Sugarcane leaves,874467.046,14639359.94,0,0,0,0,0,0,0,0,0,2297090.898
+Province_27,4. Bagasse,1440298.664,24111886.96,0,0,0,0,0,0,0,0,0,3783443.832
+Province_27,5. Molasse,257196.19,4305694.1,0,0,0,0,0,0,0,0,0,675614.97
+Province_27,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_27,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_27,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_27,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_27,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_27,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_27,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_27,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_27,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_27,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_27,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_27,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_28,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_28,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_28,3. Sugarcane leaves,1324692.768,23764529.5,0,0,0,0,0,0,0,0,0,1516297.252
+Province_28,4. Bagasse,2181846.912,39141578,0,0,0,0,0,0,0,0,0,2497430.768
+Province_28,5. Molasse,389615.52,6989567.5,0,0,0,0,0,0,0,0,0,445969.78
+Province_28,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_28,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_28,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_28,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_28,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_28,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_28,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_28,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_28,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_28,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_28,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_28,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_29,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_29,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_29,3. Sugarcane leaves,19280230.74,6836239.92,0,0,0,0,0,0,0,0,0,5923473.54
+Province_29,4. Bagasse,31755674.16,11259689.28,0,0,0,0,0,0,0,0,0,9756309.36
+Province_29,5. Molasse,5670656.1,2010658.8,0,0,0,0,0,0,0,0,0,1742198.1
+Province_29,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_29,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_29,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_29,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_29,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_29,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_29,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_29,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_29,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_29,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_29,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_29,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_30,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_30,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_30,3. Sugarcane leaves,459479.026,9532381.44,0,0,0,0,0,0,0,0,0,2050698.44
+Province_30,4. Bagasse,756788.984,15700392.96,0,0,0,0,0,0,0,0,0,3377620.96
+Province_30,5. Molasse,135140.89,2803641.6,0,0,0,0,0,0,0,0,0,603146.6
+Province_30,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_30,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_30,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_30,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_30,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_30,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_30,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_30,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_30,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_30,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_30,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_30,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_31,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_31,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_31,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_31,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_31,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_31,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_31,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_31,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_31,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_31,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_31,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_31,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_31,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_31,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_31,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_31,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_31,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_32,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_32,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_32,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_32,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_32,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_32,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_32,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_32,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_32,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_32,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_32,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_32,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_32,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_32,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_32,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_32,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_32,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_33,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_33,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_33,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_33,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_33,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_33,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_33,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_33,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_33,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_33,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_33,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_33,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_33,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_33,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_33,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_33,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_33,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_34,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_34,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_34,3. Sugarcane leaves,4161283.8,10121684.06,0,0,0,0,0,0,0,0,0,1641575.454
+Province_34,4. Bagasse,6853879.2,16671009.04,0,0,0,0,0,0,0,0,0,2703771.336
+Province_34,5. Molasse,1223907,2976965.9,0,0,0,0,0,0,0,0,0,482816.31
+Province_34,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_34,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_34,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_34,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_34,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_34,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_34,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_34,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_34,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_34,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_34,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_34,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_35,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_35,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_35,3. Sugarcane leaves,3432117.08,9177396.62,0,0,0,0,0,0,0,0,0,1156932.926
+Province_35,4. Bagasse,5652898.72,15115712.08,0,0,0,0,0,0,0,0,0,1905536.584
+Province_35,5. Molasse,1009446.2,2699234.3,0,0,0,0,0,0,0,0,0,340274.39
+Province_35,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_35,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_35,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_35,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_35,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_35,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_35,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_35,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_35,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_35,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_35,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_35,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_36,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_36,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_36,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_36,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_36,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_36,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_36,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_36,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_36,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_36,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_36,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_36,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_36,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_36,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_36,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_36,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_36,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_37,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_37,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_37,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_37,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_37,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_37,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_37,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_37,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_37,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_37,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_37,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_37,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_37,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_37,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_37,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_37,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_37,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_38,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_38,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_38,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_38,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_38,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_38,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_38,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_38,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_38,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_38,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_38,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_38,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_38,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_38,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_38,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_38,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_38,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_39,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_39,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_39,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_39,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_39,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_39,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_39,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_39,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_39,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_39,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_39,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_39,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_39,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_39,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_39,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_39,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_39,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_40,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_40,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_40,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_40,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_40,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_40,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_40,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_40,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_40,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_40,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_40,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_40,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_40,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_40,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_40,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_40,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_40,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_41,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_41,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_41,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_41,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_41,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_41,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_41,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_41,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_41,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_41,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_41,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_41,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_41,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_41,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_41,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_41,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_41,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_42,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_42,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_42,3. Sugarcane leaves,2041007.488,807801.274,0,0,0,0,0,0,0,0,0,0
+Province_42,4. Bagasse,3361659.392,1330496.216,0,0,0,0,0,0,0,0,0,0
+Province_42,5. Molasse,600296.32,237588.61,0,0,0,0,0,0,0,0,0,0
+Province_42,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_42,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_42,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_42,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_42,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_42,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_42,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_42,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_42,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_42,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_42,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_42,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_43,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_43,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_43,3. Sugarcane leaves,2349931.386,15556831.92,0,0,0,0,0,0,0,0,0,1126046.952
+Province_43,4. Bagasse,3870475.224,25623017.28,0,0,0,0,0,0,0,0,0,1854665.568
+Province_43,5. Molasse,691156.29,4575538.8,0,0,0,0,0,0,0,0,0,331190.28
+Province_43,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_43,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_43,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_43,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_43,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_43,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_43,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_43,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_43,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_43,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_43,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_43,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_44,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_44,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_44,3. Sugarcane leaves,630496.952,5061417.82,0,0,0,0,0,0,0,0,0,5803159.44
+Province_44,4. Bagasse,1038465.568,8336452.88,0,0,0,0,0,0,0,0,0,9558144.96
+Province_44,5. Molasse,185440.28,1488652.3,0,0,0,0,0,0,0,0,0,1706811.6
+Province_44,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_44,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_44,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_44,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_44,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_44,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_44,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_44,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_44,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_44,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_44,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_44,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_45,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_45,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_45,3. Sugarcane leaves,553038.424,13452764.02,0,0,0,0,0,0,0,0,0,3105983.98
+Province_45,4. Bagasse,910886.816,22157493.68,0,0,0,0,0,0,0,0,0,5115738.32
+Province_45,5. Molasse,162658.36,3956695.3,0,0,0,0,0,0,0,0,0,913524.7
+Province_45,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_45,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_45,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_45,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_45,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_45,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_45,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_45,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_45,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_45,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_45,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_45,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_46,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_46,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_46,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_46,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_46,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_46,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_46,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_46,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_46,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_46,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_46,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_46,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_46,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_46,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_46,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_46,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_46,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_47,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_47,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_47,3. Sugarcane leaves,1995929.574,9770821.74,0,0,0,0,0,0,0,0,0,87029.0214
+Province_47,4. Bagasse,3287413.416,16093118.16,0,0,0,0,0,0,0,0,0,143341.9176
+Province_47,5. Molasse,587038.11,2873771.1,0,0,0,0,0,0,0,0,0,25596.771
+Province_47,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_47,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_47,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_47,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_47,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_47,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_47,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_47,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_47,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_47,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_47,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_47,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_48,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_48,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_48,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_48,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_48,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_48,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_48,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_48,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_48,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_48,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_48,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_48,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_48,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_48,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_48,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_48,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_48,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_49,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_49,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_49,3. Sugarcane leaves,1152506.092,0,0,0,0,0,0,0,0,0,0,3510368.42
+Province_49,4. Bagasse,1898245.328,0,0,0,0,0,0,0,0,0,0,5781783.28
+Province_49,5. Molasse,338972.38,0,0,0,0,0,0,0,0,0,0,1032461.3
+Province_49,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_49,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_49,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_49,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_49,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_49,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_49,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_49,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_49,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_49,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_49,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_49,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_50,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_50,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_50,3. Sugarcane leaves,2547993.966,7071796,0,0,0,0,0,0,0,0,0,2107834.318
+Province_50,4. Bagasse,4196695.944,11647664,0,0,0,0,0,0,0,0,0,3471727.112
+Province_50,5. Molasse,749409.99,2079940,0,0,0,0,0,0,0,0,0,619951.27
+Province_50,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_50,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_50,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_50,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_50,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_50,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_50,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_50,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_50,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_50,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_50,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_50,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_51,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_51,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_51,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_51,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_51,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_51,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_51,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_51,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_51,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_51,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_51,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_51,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_51,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_51,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_51,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_51,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_51,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_52,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_52,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_52,3. Sugarcane leaves,1896946.496,7083273.72,0,0,0,0,0,0,0,0,0,220652.5166
+Province_52,4. Bagasse,3124382.464,11666568.48,0,0,0,0,0,0,0,0,0,363427.6744
+Province_52,5. Molasse,557925.44,2083315.8,0,0,0,0,0,0,0,0,0,64897.799
+Province_52,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_52,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_52,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_52,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_52,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_52,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_52,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_52,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_52,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_52,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_52,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_52,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_53,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_53,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_53,3. Sugarcane leaves,520172.562,9177720.64,0,0,0,0,0,0,0,0,0,1123883.498
+Province_53,4. Bagasse,856754.808,15116245.76,0,0,0,0,0,0,0,0,0,1851102.232
+Province_53,5. Molasse,152991.93,2699329.6,0,0,0,0,0,0,0,0,0,330553.97
+Province_53,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_53,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_53,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_53,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_53,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_53,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_53,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_53,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_53,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_53,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_53,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_53,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_54,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_54,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_54,3. Sugarcane leaves,4061652.58,8988619.1,0,0,0,0,0,0,0,0,0,255144.6666
+Province_54,4. Bagasse,6689780.72,14804784.4,0,0,0,0,0,0,0,0,0,420238.2744
+Province_54,5. Molasse,1194603.7,2643711.5,0,0,0,0,0,0,0,0,0,75042.549
+Province_54,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_54,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_54,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_54,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_54,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_54,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_54,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_54,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_54,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_54,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_54,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_54,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_55,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_55,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_55,3. Sugarcane leaves,272170.4692,4312897.62,0,0,0,0,0,0,0,0,0,2383766.044
+Province_55,4. Bagasse,448280.7728,7103596.08,0,0,0,0,0,0,0,0,0,3926202.896
+Province_55,5. Molasse,80050.138,1268499.3,0,0,0,0,0,0,0,0,0,701107.66
+Province_55,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_55,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_55,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_55,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_55,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_55,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_55,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_55,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_55,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_55,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_55,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_55,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_56,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_56,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_56,3. Sugarcane leaves,3123095.636,17659250.14,0,0,0,0,0,0,0,0,0,49559.59
+Province_56,4. Bagasse,5143922.224,29085823.76,0,0,0,0,0,0,0,0,0,81627.56
+Province_56,5. Molasse,918557.54,5193897.1,0,0,0,0,0,0,0,0,0,14576.35
+Province_56,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_56,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_56,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_56,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_56,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_56,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_56,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_56,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_56,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_56,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_56,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_56,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_57,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_57,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_57,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_57,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_57,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_57,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_57,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_57,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_57,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_57,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_57,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_57,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_57,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_57,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_57,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_57,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_57,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_58,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_58,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_58,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_58,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_58,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_58,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_58,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_58,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_58,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_58,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_58,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_58,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_58,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_58,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_58,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_58,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_58,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_59,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_59,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_59,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_59,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_59,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_59,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_59,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_59,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_59,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_59,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_59,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_59,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_59,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_59,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_59,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_59,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_59,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_60,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_60,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_60,3. Sugarcane leaves,681122.51,12769768.28,0,0,0,0,0,0,0,0,0,5299375.32
+Province_60,4. Bagasse,1121848.84,21032559.52,0,0,0,0,0,0,0,0,0,8728382.88
+Province_60,5. Molasse,200330.15,3755814.2,0,0,0,0,0,0,0,0,0,1558639.8
+Province_60,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_60,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_60,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_60,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_60,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_60,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_60,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_60,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_60,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_60,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_60,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_60,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_61,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_61,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_61,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_61,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_61,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_61,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_61,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_61,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_61,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_61,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_61,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_61,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_61,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_61,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_61,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_61,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_61,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_62,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_62,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_62,3. Sugarcane leaves,58058.2402,4647618.44,0,0,0,0,0,0,0,0,0,2540405.506
+Province_62,4. Bagasse,95625.3368,7654900.96,0,0,0,0,0,0,0,0,0,4184197.304
+Province_62,5. Molasse,17075.953,1366946.6,0,0,0,0,0,0,0,0,0,747178.09
+Province_62,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_62,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_62,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_62,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_62,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_62,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_62,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_62,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_62,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_62,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_62,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_62,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_63,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_63,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_63,3. Sugarcane leaves,1768856.664,5805854.62,0,0,0,0,0,0,0,0,0,0
+Province_63,4. Bagasse,2913410.976,9562584.08,0,0,0,0,0,0,0,0,0,0
+Province_63,5. Molasse,520251.96,1707604.3,0,0,0,0,0,0,0,0,0,0
+Province_63,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_63,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_63,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_63,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_63,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_63,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_63,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_63,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_63,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_63,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_63,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_63,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_64,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_64,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_64,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_64,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_64,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_64,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_64,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_64,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_64,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_64,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_64,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_64,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_64,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_64,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_64,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_64,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_64,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_65,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_65,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_65,3. Sugarcane leaves,751229.388,765914.328,0,0,0,0,0,0,0,0,0,2594338.584
+Province_65,4. Bagasse,1237318.992,1261505.952,0,0,0,0,0,0,0,0,0,4273028.256
+Province_65,5. Molasse,220949.82,225268.92,0,0,0,0,0,0,0,0,0,763040.76
+Province_65,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_65,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_65,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_65,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_65,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_65,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_65,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_65,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_65,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_65,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_65,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_65,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_66,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_66,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_66,3. Sugarcane leaves,2740498.396,10316581.24,0,0,0,0,0,0,0,0,0,0
+Province_66,4. Bagasse,4513762.064,16992016.16,0,0,0,0,0,0,0,0,0,0
+Province_66,5. Molasse,806028.94,3034288.6,0,0,0,0,0,0,0,0,0,0
+Province_66,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_66,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_66,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_66,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_66,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_66,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_66,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_66,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_66,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_66,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_66,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_66,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_67,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_67,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_67,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_67,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_67,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_67,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_67,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_67,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_67,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_67,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_67,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_67,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_67,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_67,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_67,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_67,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_67,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_68,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_68,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_68,3. Sugarcane leaves,1987543.746,13608172.58,0,0,0,0,0,0,0,0,0,957768.304
+Province_68,4. Bagasse,3273601.464,22413460.72,0,0,0,0,0,0,0,0,0,1577500.736
+Province_68,5. Molasse,584571.69,4002403.7,0,0,0,0,0,0,0,0,0,281696.56
+Province_68,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_68,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_68,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_68,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_68,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_68,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_68,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_68,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_68,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_68,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_68,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_68,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_69,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_69,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_69,3. Sugarcane leaves,3628621.78,16978531.38,0,0,0,0,0,0,0,0,0,795848.438
+Province_69,4. Bagasse,5976553.52,27964639.92,0,0,0,0,0,0,0,0,0,1310809.192
+Province_69,5. Molasse,1067241.7,4993685.7,0,0,0,0,0,0,0,0,0,234073.07
+Province_69,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_69,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_69,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_69,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_69,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_69,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_69,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_69,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_69,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_69,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_69,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_69,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_70,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_70,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_70,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_70,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_70,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_70,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_70,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_70,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_70,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_70,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_70,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_70,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_70,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_70,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_70,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_70,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_70,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_71,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_71,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_71,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_71,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_71,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_71,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_71,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_71,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_71,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_71,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_71,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_71,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_71,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_71,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_71,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_71,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_71,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_72,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_72,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_72,3. Sugarcane leaves,1403296.62,4567174.78,0,0,0,0,0,0,0,0,0,0
+Province_72,4. Bagasse,2311312.08,7522405.52,0,0,0,0,0,0,0,0,0,0
+Province_72,5. Molasse,412734.3,1343286.7,0,0,0,0,0,0,0,0,0,0
+Province_72,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_72,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_72,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_72,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_72,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_72,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_72,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_72,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_72,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_72,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_72,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_72,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_73,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_73,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_73,3. Sugarcane leaves,1737608.284,4970486.86,0,0,0,0,0,0,0,0,0,2756058.53
+Province_73,4. Bagasse,2861943.056,8186684.24,0,0,0,0,0,0,0,0,0,4539390.52
+Province_73,5. Molasse,511061.26,1461907.9,0,0,0,0,0,0,0,0,0,810605.45
+Province_73,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_73,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_73,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_73,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_73,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_73,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_73,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_73,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_73,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_73,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_73,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_73,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_74,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_74,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_74,3. Sugarcane leaves,2118329.778,0,0,0,0,0,0,0,0,0,0,2515008.492
+Province_74,4. Bagasse,3489013.752,0,0,0,0,0,0,0,0,0,0,4142366.928
+Province_74,5. Molasse,623038.17,0,0,0,0,0,0,0,0,0,0,739708.38
+Province_74,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_74,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_74,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_74,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_74,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_74,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_74,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_74,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_74,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_74,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_74,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_74,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_75,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_75,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_75,3. Sugarcane leaves,1109538.014,6580694.9,0,0,0,0,0,0,0,0,0,27900.9355
+Province_75,4. Bagasse,1827474.376,10838791.6,0,0,0,0,0,0,0,0,0,45954.482
+Province_75,5. Molasse,326334.71,1935498.5,0,0,0,0,0,0,0,0,0,8206.1575
+Province_75,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_75,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_75,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_75,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_75,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_75,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_75,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_75,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_75,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_75,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_75,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_75,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_76,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_76,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_76,3. Sugarcane leaves,0,0,0,0,0,0,0,0,0,0,0,0
+Province_76,4. Bagasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_76,5. Molasse,0,0,0,0,0,0,0,0,0,0,0,0
+Province_76,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_76,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_76,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_76,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_76,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_76,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_76,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_76,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_76,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_76,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_76,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_76,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_77,1. Rice straw,0,0,0,0,0,0,0,0,0,0,0,0
+Province_77,2. Rice Husk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_77,3. Sugarcane leaves,292001.8668,6791161.36,0,0,0,0,0,0,0,0,0,994105.158
+Province_77,4. Bagasse,480944.2512,11185442.24,0,0,0,0,0,0,0,0,0,1637349.672
+Province_77,5. Molasse,85882.902,1997400.4,0,0,0,0,0,0,0,0,0,292383.87
+Province_77,6. Corn leaves & trunk,0,0,0,0,0,0,0,0,0,0,0,0
+Province_77,7. Corncobob,0,0,0,0,0,0,0,0,0,0,0,0
+Province_77,8. Peeled cassava,0,0,0,0,0,0,0,0,0,0,0,0
+Province_77,9. Cassava rhizome,0,0,0,0,0,0,0,0,0,0,0,0
+Province_77,10. Cassava fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_77,11. Cassava peels,0,0,0,0,0,0,0,0,0,0,0,0
+Province_77,12 Oil palm bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_77,13. Oil palm fiber,0,0,0,0,0,0,0,0,0,0,0,0
+Province_77,14. Oil palm shell,0,0,0,0,0,0,0,0,0,0,0,0
+Province_77,15. Coconut bunch,0,0,0,0,0,0,0,0,0,0,0,0
+Province_77,16. Coconut bract,0,0,0,0,0,0,0,0,0,0,0,0
+Province_77,17. Coconut shell,0,0,0,0,0,0,0,0,0,0,0,0
+sum,sum,32743248.04,399975663.1,0,0,0,0,0,0,0,0,0,32730833.67
