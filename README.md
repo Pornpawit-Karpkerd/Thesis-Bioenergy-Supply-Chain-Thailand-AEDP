@@ -3,7 +3,7 @@ This repository is created for information and datasets for my MSc thesis "Bioen
 
 NB:  source code .ipynb files are not readable on Github, Please download the files and open them in readable platform.
 
-Abstract
+## Abstract
 
 Alternative energy penetration has been growing over the past decade. Thailand, as well, has been aware of global warming and decreasing of fossil fuels reservoir problems. The country has developed and proclaimed the Alternative Energy Development Plan (AEDP) as a part of energy development plans to reduce energy-intensive, utilize more residue resources, and reduce Greenhouse gases emission. According to the AEDP, the country has achieved many target alternative energy consumptions. However, electricity generated from biomass and biogas; and bioethanol produced from biomass have not been accomplished. There are 398 MW of electricity and 0.75 ML/day of bioethanol production capacity Thailand requires to accomplish the AEDP. Hence, this study was conducted to identify the causes that make the AEDP has not been accomplished including the amount of biomass and energy production capacity needed and additionally provide some suggestions to improve the bioenergy supply chain. 
 
